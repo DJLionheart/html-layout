@@ -1,0 +1,50 @@
+body, html {
+    margin: 0;
+}
+
+.header {
+    background-color: lightgrey;
+    width: 100%;
+    height: 100px;
+    padding-top: 10px;
+}
+
+.blueBox {
+    margin-left: 20px;
+    width: 90px;
+    height: 90px;
+    background-color: cornflowerblue;
+}
+
+.textContainer {
+    width: 100%;
+    height: 180px;
+    background-color: white;
+}
+
+.textContainer p {
+    margin: 30px;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.bar {
+    width: 100%;
+    height: 120px;
+}
+
+.blue {
+    background-color: cornflowerblue;
+}
+
+.teal {
+    background-color: lightseagreen; 
+}
+
+.olive {
+    background-color: olivedrab;
+}
+
+.gold {
+    background-color: gold;
+}

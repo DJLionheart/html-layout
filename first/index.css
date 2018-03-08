@@ -1,0 +1,23 @@
+.header  {
+    background-color: #4F4F4F;
+    height: 18vh;
+}
+
+.center {
+    background-color: #F2F2F2;
+    padding: 50px;
+    margin-left: 120px;
+    margin-right: 120px;
+    height: 60vh;
+}
+
+body {
+    background-color: #D3D3D3;
+}
+
+.footer {
+    background-color: #343434;
+    margin-left: 120px;
+    margin-right: 120px;
+    height: 10vh;
+}
